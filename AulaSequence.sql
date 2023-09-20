@@ -1,2 +1,2 @@
-CREATE TABLE tabela_um {
-id number, descricao varchar2(30));
+CREATE TABLE AULA_SEQUENCE (
+ID NUMBER, DESCRICAO VARCHAR2 (40))
